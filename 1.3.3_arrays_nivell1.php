@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 function searchCommonCharacter(array $array, string $character) : string {
 
+    $array = array_map('strtolower', $array);
+    $character = strtolower($character);
+
     $cointidence = true;
 
     foreach ($array as $words) {
@@ -19,7 +22,4 @@ function searchCommonCharacter(array $array, string $character) : string {
     
 }
 
-$array1 = ["hola", "Php", "Html"];
-$char = "h";
-echo searchCommonCharacter($array1, $char);
 ?>
