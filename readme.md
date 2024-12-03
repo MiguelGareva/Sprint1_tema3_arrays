@@ -1,4 +1,4 @@
-Sprint1 tema 2: php basics.
+Sprint1 tema 3: arrays.
 
 Tecnologías utilizadas:
     · Xampp
