@@ -15,7 +15,10 @@ Instalacíon:
     · Clonar o descargar el repositorio dentro de la carpeta htdocs, que se encuentra en la carpeta XAMPP una vez instalado.
 
 Ejecución:
-    · Abrir navegado web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
+    · Abrir navegador web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
 
 Descripción ejercicios:
     ·1.3.1:"Crea un array, afegeix-li 5 nombres enters i després mostrals per pantalla d’un en un."
+
+    ·1.3.2:"$X = array (10, 20, 30, 40, 50,60);
+        Mostrar per pantalla la mida de l’array anterior i posteriorment elimina un element de l’array anterior. Després d'eliminar l'element, les claus senceres han de ser normalitzades(s’han de reorganitzar els seus índexs). Mostra per última vegada la mida de l’array."
