@@ -29,3 +29,10 @@ Descripción ejercicios:
             Per exemple:
 
             Si tenim [“hola”, “Php”, “Html”] retornarà true si preguntem per “h” però fals si preguntem per “l”."
+    
+    ·1.3.4:"Fes un array associatiu que representi informació de tu mateix/a. En concret ha d’incloure:
+
+            · nom
+            · edat
+            · email
+            · menjar favorit"
