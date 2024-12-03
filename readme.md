@@ -22,3 +22,10 @@ Descripción ejercicios:
 
     ·1.3.2:"$X = array (10, 20, 30, 40, 50,60);
         Mostrar per pantalla la mida de l’array anterior i posteriorment elimina un element de l’array anterior. Després d'eliminar l'element, les claus senceres han de ser normalitzades(s’han de reorganitzar els seus índexs). Mostra per última vegada la mida de l’array."
+
+    ·1.3.3:"Crea una funció que rebi com a paràmetres un array de paraules i un caràcter. La funció ens retorna true si totes les 
+        paraules de l’array tenen el caràcter passat com a segon paràmetre.
+
+            Per exemple:
+
+            Si tenim [“hola”, “Php”, “Html”] retornarà true si preguntem per “h” però fals si preguntem per “l”."
