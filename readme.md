@@ -1,38 +1,45 @@
-Sprint1 tema 3: arrays.
+**<h1>Sprint1 tema 2: ARRAYS.</h1>**
 
-Tecnologías utilizadas:
-    · Xampp
-    · Php versión 8.2.12
-    · Git versión 2.47.0.windows.2
+**<h3>#Tecnologías utilizadas:</h3>**
+    · Xampp<br>
+    · Php versión 8.2.12<br>
+    · Git versión 2.47.0.windows.2<br>
     · IDE (visual studio code)
 
-Requisitos:
-    · Entorno de servidor web local
+**<h3>#Requisitos:</h3>**
+    · Entorno de servidor web local<br>
     . Navegador web
 
-Instalacíon:
-    · Descargar e instalar un entorno de servidor web local(como XAMPP)
+**<h3>#Instalacíon:</h3>**
+    · Descargar e instalar un entorno de servidor web local(como XAMPP)<br>
     · Clonar o descargar el repositorio dentro de la carpeta htdocs, que se encuentra en la carpeta XAMPP una vez instalado.
 
-Ejecución:
-    · Abrir navegador web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
+**<h3>#Ejecución:</h3>**
+    · Abrir navegador web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o 
+    proyecto"
 
-Descripción ejercicios:
-    ·1.3.1:"Crea un array, afegeix-li 5 nombres enters i després mostrals per pantalla d’un en un."
-
-    ·1.3.2:"$X = array (10, 20, 30, 40, 50,60);
-        Mostrar per pantalla la mida de l’array anterior i posteriorment elimina un element de l’array anterior. Després d'eliminar l'element, les claus senceres han de ser normalitzades(s’han de reorganitzar els seus índexs). Mostra per última vegada la mida de l’array."
-
-    ·1.3.3:"Crea una funció que rebi com a paràmetres un array de paraules i un caràcter. La funció ens retorna true si totes les 
-        paraules de l’array tenen el caràcter passat com a segon paràmetre.
-
-            Per exemple:
-
-            Si tenim [“hola”, “Php”, “Html”] retornarà true si preguntem per “h” però fals si preguntem per “l”."
+**<h3>#Descripción ejercicios:</h3>**
+    **<h4>Nivel 1:</h4>**
+    · <a href="1.3.1_arrays_nivell1.php">Ejercicio #1</a>: *"Crea un array, afegeix-li 5 nombres enters i després mostrals per 
+    pantalla d’un en un."*<br><br>
+    · <a href="1.3.2_arrays_nivell1.php">Ejercicio #2</a>; **$X = array (10, 20, 30, 40, 50,60);**<br>
+*Mostrar per pantalla la mida de l’array anterior i posteriorment elimina un element de l’array anterior. Després d'eliminar 
+l'element, les claus senceres han de ser normalitzades(s’han de reorganitzar els seus índexs). Mostra per última vegada la mida de 
+l’array."*<br><br>
+    · <a href="1.3.3_arrays_nivell1.php">Ejercicio #3</a>: *"Crea una funció que rebi com a paràmetres un array de paraules i un 
+    caràcter. La funció ens retorna true si totes les paraules de l’array tenen el caràcter passat com a segon paràmetre.<br>
+Per exemple:<br>
+Si tenim [“hola”, “Php”, “Html”] retornarà true si preguntem per “h” però fals si preguntem per “l”."*<br><br>
+    · <a href="1.3.4_arrays_nivell1.php">Ejercicio #4</a>: *"Fes un array associatiu que representi informació de tu mateix/a. 
+    En concret ha d’incloure:<br>· nom<br>· edat<br>· email<br>· menjar favorit"*<br><br>
     
-    ·1.3.4:"Fes un array associatiu que representi informació de tu mateix/a. En concret ha d’incloure:
+**<h4>Nivel 2:</h4>**
+    · <a href="1.3.1_arrays_nivell2.php">Ejercicio #1</a>: "Crea un programa que contingui dos arrays de nombres enters/floats. 
+    Un cop creats, mostra per pantalla el resultat de:
+· La intersecció dels dos arrays (nombres en comú)
+· La mescla dels dos arrays."<br><br>
+    · <a href="1.2.2_php_basics_nivell2.php">Ejercicio #2</a>: *"Imagina que som a una botiga on es ven:<br>·Xocolata: 1 euro<br>·Xiclets: 0,50 euros<br>·Caramels: 1,50 euros<br>Implementa un programa que permeti afegir càlculs a un total de compres d'aquest tipus."*<br><br>
 
-            · nom
-            · edat
-            · email
-            · menjar favorit"
+**<h4>Nivel 3:</h4>**
+    · <a href="1.2.1_php_basics_nivell3.php">Ejercicio #1</a>: *"El sedàs d'Eratòstenes és un algoritme pensat per a trobar nombres primers dins d'un interval donat. Basant-te en la informació de l'enllaç adjunt, implementa el sedàs d'Eratòstenes dins d'una funció, de tal forma que puguem invocar la funció per a un número concret."*<br>
+
