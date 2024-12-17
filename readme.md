@@ -41,5 +41,5 @@ Si tenim [“hola”, “Php”, “Html”] retornarà true si preguntem per �
     · <a href="1.3.2_arrays_nivell2.php">Ejercicio #2</a>: *"Crea un programa que llisti les notes dels/les alumnes d’una classe. Per això haurem d’utilitzar un array associatiu on la clau serà el nom de cada alumne. Cada alumne tindrà 5 notes (valorades del 0 al 10).<br>A més, crea una funció que, donades les notes de tots els/les alumnes, ens mostri tant la mitjana de la nota de cada alumne, com la nota mitjana de la classe sencera."*<br><br>
 
 **<h4>Nivel 3:</h4>**
-    · <a href="1.2.1_php_basics_nivell3.php">Ejercicio #1</a>: *"El sedàs d'Eratòstenes és un algoritme pensat per a trobar nombres primers dins d'un interval donat. Basant-te en la informació de l'enllaç adjunt, implementa el sedàs d'Eratòstenes dins d'una funció, de tal forma que puguem invocar la funció per a un número concret."*<br>
+    · <a href="1.3.1_arrays_nivell3.php">Ejercicio #1</a>: *"Donat un array d’enters, fes un programa que:<br>Retorni cada valor de l’array elevat al cub fent servir la funció array_map()."*<br><br>
 
