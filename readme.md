@@ -43,4 +43,5 @@ Si tenim [“hola”, “Php”, “Html”] retornarà true si preguntem per �
 **<h4>Nivel 3:</h4>**
     · <a href="1.3.1_arrays_nivell3.php">Ejercicio #1</a>: *"Donat un array d’enters, fes un programa que:<br>Retorni cada valor de l’array elevat al cub fent servir la funció array_map()."*<br><br>
     · <a href="1.3.2_arrays_nivell3.php">Ejercicio #2</a>: *"Donat un array d’strings, fes un programa que:<br>Retorni un array on només estiguin els strings que tinguin un nom parell de caràcters usant la funció array_filter()."*<br><br>
+    · <a href="1.3.3_arrays_nivell3.php">Ejercicio #3</a>: *"Donat un array d’enters, fes un programa que ens retorni la suma dels enters de l’array que siguin primers fent servir la funció array_reduce()."*<br><br>
 
