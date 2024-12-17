@@ -20,6 +20,9 @@ function sumarPrimos(int $suma, int $numero) : int{
     }
     return $suma;
 }
+$arrayNumeros = array(1,3,4,7,5,9,11,13,25);
 
+$sumaPrimos = array_reduce($arrayNumeros,'sumarPrimos',0);
+echo $sumaPrimos;
 
 ?>
