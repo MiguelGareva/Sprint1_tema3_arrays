@@ -13,4 +13,13 @@ function esPrimo(int $numero) : bool{
     }
     return true;
 }
+
+function sumarPrimos(int $suma, int $numero) : int{
+    if (esPrimo($numero)) {
+        return $suma + $numero;
+    }
+    return $suma;
+}
+
+
 ?>
